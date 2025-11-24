@@ -30,3 +30,9 @@ nav a {
 .rounded-pill{
   border-radius: 5rem;
 }
+.responsive-img {
+  max-width: 100%;
+  height: auto;
+  /* max-height: 300px;  */
+}
+
